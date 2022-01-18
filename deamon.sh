@@ -40,5 +40,7 @@ function startProcess() {
   echo -e "$RUN_PATH start new pid list:\n$NEW_PROCESS_PID"
 }
 
-main "php test2.php" 3 $1
-#main "php test1.php" $1
+#格式 命令 消费者进程数量 $1目前只接受restart
+main "php artisan xx" 1 $1
+main "php artisan xxx" 1 $1
+main "php artisan xxxx" 1 $1
