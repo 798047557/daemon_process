@@ -12,13 +12,13 @@ shell守护进程
 
 1.正常启动
 
-![image-20220118150501051](https://github.com/798047557/daemon_process/blob/main/step1.jpg)
+![image-20220118150501051](https://test.cdn.heshecasa.com/hhserp/upload/image/2022-01-18/e4e5505eb2ac1d351295c9f19db7357c25085528.jpg)
 
 2.带restart重启
 
-![image-20220118150501051](https://github.com/798047557/daemon_process/blob/main/step2.jpg)
+![image-20220118150501051](https://test.cdn.heshecasa.com/hhserp/upload/image/2022-01-18/86a9b075a18a1d044e374e3ef11af322a46394c8.jpg)
 
 3.如果只挂掉一个进程,例如需要开三个挂掉一个就会自动补全到设置的进程数量
 
-![image-20220118150501051](https://github.com/798047557/daemon_process/blob/main/step3.jpg)
+![image-20220118150501051](https://test.cdn.heshecasa.com/hhserp/upload/image/2022-01-18/9b56be0512d2e3b632584b601da12d9ea5f70cbf.jpg)
 
