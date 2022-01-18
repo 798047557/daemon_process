@@ -12,13 +12,13 @@ shell守护进程
 
 1.正常启动
 
-![image-20220118150501051](./desc/step1.jpg)
+![image-20220118150501051](desc/step1.jpg)
 
 2.带restart重启
 
-![image-20220118150501051](./desc/step2.jpg)
+![image-20220118150501051](desc/step2.jpg)
 
 3.如果只挂掉一个进程,例如需要开三个挂掉一个就会自动补全到设置的进程数量
 
-![image-20220118150501051](./desc/step3.jpg)
+![image-20220118150501051](desc/step3.jpg)
 
